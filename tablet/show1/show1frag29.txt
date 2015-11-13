@@ -1,0 +1,18 @@
+1:01
+Interviewer - Jullie, in het herseninstituut, leggen wel eens mensen in een scanner te slapen, in het befaamde slaaplab. 
+Interviewer - Ik ben er wel eens op bezoek geweest, het is heel geestig. 
+Interviewer - Je moet er stil zijn namelijk. Het is er relatief donker. 
+Interviewer - En je ziet iemand naar een scherm kijken, waarin je ziet wat er in het brein van degene die de kamer verder ligt te slapen allemaal gebeurt. 
+Interviewer - Wat zie je dan allemaal gebeuren in zo'n brein? 
+Interviewer - Behalve die langzame hersengolven, wat gebeurt er verder allemaal in die hersenen? 
+Ysbrand - Je ziet, een beetje afhankelijk van het slaapstadium waar iemand in zit, zie je ofwel overwegend die langzame golven, of je ziet een aantal specifieke slaapfenomenen. 
+Ysbrand - Zoals slaapspoelen en K-complexen, dat zijn dingen die we herkennen in het EEG, in het elektrische signaal van de hersenen. 
+Ysbrand - En je hebt natuurlijk om de zoveel tijd de afwisseling tussen niet REM-slaap en de REM-slaap. De Rapid Eye Movement-slaap. 
+Interviewer - Wanneer de dromen komen.
+Ysbrand - Dat is de fase waarin de meeste dromen, althans, de meest beeldende dromen zich afspelen. 
+Ysbrand - Je droomt op zich in alle slaapfases, maar met name in de REM-slaap heb je die hele uitgesponnen verhaallijnen, de films, laten we maar zeggen. 
+
+Welk specifiek fenomeen kun je tijdens slaap zien in het hersen signaal?
+K complexen.
+A complexen.
+S complexen.
